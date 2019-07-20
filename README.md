@@ -2,6 +2,8 @@
 
 **This is not production-ready software. Use at your own risk!**
 
+[![GoDoc](https://godoc.org/github.com/jsocol/pool?status.svg)](https://godoc.org/github.com/jsocol/pool)
+
 I needed a quick way to be able to run a few jobs in parallel and
 collect the results, with a limit on the concurrency. I found lots of
 examples but not a lot of libraries, so I threw this together and put it
